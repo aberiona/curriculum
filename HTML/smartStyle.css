@@ -8,6 +8,7 @@
     .footer{
         width: 250px;
     }
+    
 }
     
 @media screen and (max-width: 479px) {
@@ -20,7 +21,10 @@
     .footer{
         width: 150px;
     }
-    .contents {
+    .left {
+        float: none;
+    }
+    .light {
         float: none;
     }
 }
